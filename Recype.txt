@@ -1,11 +1,11 @@
 Tampilan awal pada saat membuka aplikasi adalah welcome screen. Pengguna bisa melakukan login atau signup. Apabila berhasil masuk, maka akan muncul tampilan home. Setiap resep yang muncul bisa disimpan atau di-like, selain itu, setiap resep akan memiliki kategori masing-masing. Bagian favourite merupakan halaman dimana pengguna bisa menambahkan atau melihat kategori resep yang disukai. 
 Penambahan resep bisa dilakukan pengguna. Selain penambahan, apabila resep sudah berhasil ditambahkan, pengguna bisa mengedit resep tersebut. Jika memilih resep orang lain, maka akan terdapat pilihan untuk membeli barang-barang yang ada melalui aplikasi pihak ketiga.
 Pemilihan warna merah karena warna merah identik dengan membangkitkan nafsu makan (jika saya tidak salah). Sehingga ketika pengguna melihat aplikasi, pengguna memiliki selera atau keinginan untuk segera memasak, jika menemukan menu yang sesuai. 
-Sekian penjelasan mengenai desain. Terima kasih.
+Sekian penjelasan mengenai desain. Terima kasih
 
 (
 First display you will see when opening the application is the welcome screen. Users can log in or signup. When you login or signup successfully, the home screen will appear. Each recipe that appears can be saved or liked, also, each recipe belong to their own category. The favorite section is a page where users can add or view the recipe that been like before in each category.
 Users can add their own recipe. Beside that users can edit the recipe which been created before. If user choose someone else's recipe, there will be an option to buy the recipe items through third party applications.
 The selection of red color because red is identical to arouse appetite (if I'm not mistaken). So when the user sees the application, the user has the taste or desire to immediately cook, if they find the appropriate menu.
-That's all for the explanations about the design. Thanks.
+That's all for the explanations about the design. Thanks
 )
